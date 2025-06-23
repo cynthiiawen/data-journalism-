@@ -1,7 +1,7 @@
 **Question**: Is it rude to ask someone to switch seats with you in order to be closer to family?
 
 **Chart:**
-![](https://datawrapper.dwcdn.net/5o8pn/1/)
+![datawrapper chart](https://datawrapper.dwcdn.net/5o8pn/1/)
 
 I picked the question above because I feel like it is quite controversial and wanted to see respondant's opinions on the topic. On one hand, people can argue that they paid for their seats and it is rude for someone to ask them to move to a different seat they didn't pay for. However, people can also emphatize with wanting to stick with their family.
 
